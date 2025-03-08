@@ -1,0 +1,17 @@
+@media (max-width:600px){
+
+    body {
+        transition: 0.5s;
+        overflow: hidden;
+    }
+
+    #container {
+        width: 330px;
+        height: 330px;
+    }
+
+    .time {
+        width: 70px;
+        font-size: 30px;
+    }
+}
